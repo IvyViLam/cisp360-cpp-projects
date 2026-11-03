@@ -1,6 +1,6 @@
 /*
  * Student Name: Vi Lam
- * Date: [Submission Date]
+ * Date: 7/19/2026
  * Assignment: Homework Assignment 3
  * Program Description: This program supports lab technicians
    in analyzing wastewater BOD and COD data, generating reports,
