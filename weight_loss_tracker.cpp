@@ -1,6 +1,6 @@
 /*
  * Student Name: Vi Lam
- * Date: 07/12/2026
+ * Date: 06/21/2026
  * Assignment: Homework Assignment 2
  * Program Description: Maintaining a healthy weight can be challenging
    in today's busy world. This program helps users build a weight-loss
